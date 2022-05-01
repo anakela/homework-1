@@ -133,9 +133,7 @@ Refactoring not only can help with accessibility, but it can also help with
 
 ### Continued Development
 
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
-
-**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
+I would love to apply and keep refactoring in mind for future coding projects.  I think this will assist with not only future site accessiblity, but also with general sanity when trying to keep code organized.  (Too many lines of unnecessary code can make reading and creating code that much more tedious.)
 
 ### Useful Resources
 
